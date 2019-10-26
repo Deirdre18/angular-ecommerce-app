@@ -1,7 +1,7 @@
-#Angular-ecommerce-app
+# Angular-ecommerce-app
 An ecommerce app using angular. 
 
-##Template Syntax
+## Template Syntax
 Initial set-up using angular syntax to create product lists and iteration, using *ngFor. Learning outcomes in this section include implementing five common features of Angular's template syntax to create a products list:
 
 *ngFor
@@ -10,7 +10,7 @@ Interpolation {{ }}
 Property binding [ ]
 Event binding ( )
 
-##Components
+## Components
 Components define areas of responsibility in the user interface, or UI, that let you reuse sets of UI functionality. The above products list created is one component.
 
 A component consists of three things:
@@ -23,7 +23,7 @@ A component consists of three things:
 
 An Angular application comprises a tree of components, in which each Angular component has a specific purpose and responsibility.
 
-So far, the eapp has three components:
+So far, the app has three components:
 
 - app-root, which is the application shell. This is the first component to load and the parent of all other components (consider it the base page).
 
