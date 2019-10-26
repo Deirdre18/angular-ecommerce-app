@@ -1,5 +1,5 @@
-<!--defining the view for the new product alert component-->
+<!--defining the view for the new product alert component and updating the "Notify Me" button with an event binding to call the notify.emit() method-->
 
 <p *ngIf="product.price > 700">
-  <button>Notify Me</button>
+  <button (click)="notify.emit()">Notify Me</button>
 </p>
