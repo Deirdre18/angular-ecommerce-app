@@ -1,5 +1,6 @@
 # Angular-ecommerce-app
-An ecommerce app using angular. 
+An ecommerce app using angular, using StackBlitz (https://stackblitz.com/).
+To set up an angular project locally, refer to https://angular.io/guide/setup-local
 
 ## Template Syntax
 Initial set-up using angular syntax to create product lists and iteration, using *ngFor. Learning outcomes in this section include implementing five common features of Angular's template syntax to create a products list:
